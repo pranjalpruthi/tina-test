@@ -47,3 +47,5 @@ You can check out [Tina Github repository](https://github.com/tinacms/tinacms) -
 ## [Deploy on Vercel](https://tina.io/guides/tina-cloud/add-tinacms-to-existing-site/deployment/)
 # Update update/readme-1
 This is a small update for PR update/readme-1.
+# Update update/readme-2
+This is a small update for PR update/readme-2.
