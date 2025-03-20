@@ -47,3 +47,5 @@ You can check out [Tina Github repository](https://github.com/tinacms/tinacms) -
 ## [Deploy on Vercel](https://tina.io/guides/tina-cloud/add-tinacms-to-existing-site/deployment/)
 Quick PR for GitHub achievement
 Quick PR for GitHub achievement
+# Tina Test Project
+This is a quick update to improve the README file.
