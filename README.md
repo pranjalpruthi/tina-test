@@ -61,3 +61,5 @@ This is a quick fix for a typo in the README file.
 This section provides better documentation for the project.
 # Update refactor:-clean-up-some-code-6
 This is a small update for PR refactor:-clean-up-some-code-6.
+# Update fix:-fix-typo-in-readme-7
+This is a small update for PR fix:-fix-typo-in-readme-7.
